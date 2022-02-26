@@ -1,0 +1,63 @@
+.conversor {
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 15px 15px 20px #222;
+    border: 2px solid #222;
+}
+
+.title2 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    display: block;
+    margin: 10px auto 0 auto;
+    color: #EFEFEF
+}
+
+input{
+    outline: none;
+}
+
+.input {
+    display: block;
+    width: 200px;
+    height: 30px;
+    padding: 5px 15px;
+    background: #222;
+    border: 1.4px solid #555;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-size: 1rem;
+    color: #aaa;
+    margin: 15px auto 0 auto;
+    box-shadow: 5px 5px 10px #55555580;
+}
+
+.btn {
+    width: 120px;
+    height: 40px;
+    background-color: #222;
+    border: 1.4px solid #555;
+    border-radius: 10px;
+    color:#EFEFEF;
+    font-size: 1rem;
+    display: block;
+    margin: 20px auto 0 auto;
+    box-shadow: 5px 5px 10px #55555580;
+}
+
+.vlc{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    display: block;
+    margin: 10px auto 0 auto;
+    color: #FFFFFF;
+}
