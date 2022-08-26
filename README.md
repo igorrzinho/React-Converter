@@ -10,6 +10,6 @@ projeto no figma [click aqui]()
 |euro |real brasileiro| |real brasileiro|euro|
 |dolar canadense |real brasileiro| |real brasileiro|dolar canadense|
 
-![img projeto](assets/img.png)
+![img projeto](assets/img.PNG)
 
-[click aqui](https://t06nef.csb.app/)
+[site aqui](https://t06nef.csb.app/)
